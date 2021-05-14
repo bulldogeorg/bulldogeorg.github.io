@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.6238958a.chunk.js": "/static/js/0.6238958a.chunk.js",
+    "main.css": "/static/css/main.76c39a35.chunk.css",
+    "main.js": "/static/js/main.c34a3839.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.2d1666ef.js",
+    "static/js/3.97d8f143.chunk.js": "/static/js/3.97d8f143.chunk.js",
+    "static/js/4.5d942814.chunk.js": "/static/js/4.5d942814.chunk.js",
+    "static/js/5.a299ba15.chunk.js": "/static/js/5.a299ba15.chunk.js",
+    "static/js/6.9727c373.chunk.js": "/static/js/6.9727c373.chunk.js",
+    "static/js/7.432024d9.chunk.js": "/static/js/7.432024d9.chunk.js",
+    "static/js/8.76f336d2.chunk.js": "/static/js/8.76f336d2.chunk.js",
+    "static/js/9.a205ac7d.chunk.js": "/static/js/9.a205ac7d.chunk.js",
+    "static/js/10.c9e5a0b0.chunk.js": "/static/js/10.c9e5a0b0.chunk.js",
+    "static/js/11.68132a31.chunk.js": "/static/js/11.68132a31.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.3c201557704cdfff0ace7797f1ac2de6.js": "/precache-manifest.3c201557704cdfff0ace7797f1ac2de6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.97d8f143.chunk.js.LICENSE.txt": "/static/js/3.97d8f143.chunk.js.LICENSE.txt",
+    "static/js/5.a299ba15.chunk.js.LICENSE.txt": "/static/js/5.a299ba15.chunk.js.LICENSE.txt",
+    "static/js/6.9727c373.chunk.js.LICENSE.txt": "/static/js/6.9727c373.chunk.js.LICENSE.txt",
+    "static/js/7.432024d9.chunk.js.LICENSE.txt": "/static/js/7.432024d9.chunk.js.LICENSE.txt",
+    "static/js/8.76f336d2.chunk.js.LICENSE.txt": "/static/js/8.76f336d2.chunk.js.LICENSE.txt",
+    "static/media/BUSD.png": "/static/media/BUSD.a578efd2.png",
+    "static/media/DAI.png": "/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "/static/media/USDT.839a0f0d.png",
+    "static/media/WBNB.png": "/static/media/WBNB.162aaf57.png",
+    "static/media/bulldog.svg": "/static/media/bulldog.9550e047.svg",
+    "static/media/farmer.png": "/static/media/farmer.42911b76.png",
+    "static/media/ycrv.png": "/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d1666ef.js",
+    "static/js/3.97d8f143.chunk.js",
+    "static/css/main.76c39a35.chunk.css",
+    "static/js/main.c34a3839.chunk.js"
+  ]
+}
